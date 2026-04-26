@@ -1,20 +1,17 @@
-# Lab 07 – IIoT Network Analysis: Age of Information vs Reliability
+# Lab 02 – TensorFlow Lite Deployment
 
 ## Objective
-Analyze the trade-off between fresh data delivery (AoI) and packet reliability in Industrial IoT networks using machine learning models.
+Explore TensorFlow Lite and understand how machine learning models can be optimized for deployment on edge devices.
 
 ## Tools Used
+- TensorFlow Lite
 - Python
-- Pandas
-- Matplotlib
-- Scikit-learn
-- TensorFlow
+- Edge AI Concepts
 
 ## What I Learned
-- How AoI impacts IIoT systems
-- Trade-offs between latency and reliability
-- Predictive modeling with Random Forest and Neural Networks
+- How lightweight models run on embedded systems
+- Benefits of edge inference
+- Model optimization for constrained hardware
 
 ## Files Included
-- Notebook PDF
-- Final report PDF
+- Group lab report
